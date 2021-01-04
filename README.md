@@ -15,8 +15,6 @@
 
 - ✏️ Quote from me : If you want to build a wall you need to lay a brick everyday🙂
 
-<br/>
-
 ---
 
-  <img align="left" alt="jopraveen's GitHub Stats" src="https://github-readme-stats.jopraveen.vercel.app/api?username=jopraveen&show_icons=true&hide_border=true" />
+  <img align="left" alt="jopraveen's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jopraveen&show_icons=true&hide_border=true" />
