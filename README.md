@@ -17,4 +17,6 @@
 
 <br/>
 
+---
+
   <img align="left" alt="jopraveen's GitHub Stats" src="https://github-readme-stats.jopraveen.vercel.app/api?username=jopraveen&show_icons=true&hide_border=true" />
