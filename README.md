@@ -14,7 +14,7 @@
 
 - ✏️ Quote from me : If you want to build a wall you need to lay a brick everyday🙂
 
-### Visit my portfolio website : https://jopraveeen.github.io 
+### Visit my portfolio website : https://jopraveen.github.io 
 
 <!--
 - 📲 To contact me : 
