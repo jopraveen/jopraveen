@@ -14,7 +14,8 @@
 
 - ✏️ Quote from me : If you want to build a wall you need to lay a brick everyday🙂
 
-### visit my CYBERSEC blog : https://jopraveen.wordpress.com
+### visit my CYBERSEC blog :
+# https://jopraveen.wordpress.com
 
 <!--
 - 📲 To contact me : 
