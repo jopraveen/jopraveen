@@ -6,7 +6,7 @@
 
 - 👨‍🎓 College student studiying CSE
 
-- 🏃 Currently working on : Htb writeups ( on my blog )
+- 🏃 Currently working on : i3 ricing (kali-punk)
 
 - 🥅 2021 Goals: Contribute more free stuffs
 
