@@ -1,4 +1,4 @@
-![name](https://github.com/jopraveen/jopraveen/blob/main/some-gifs/main-page.png)
+![name](https://github.com/jopraveen/jopraveen/blob/main/some-gifs/name.png)
 
 ### Welcome guys 🙂
 
