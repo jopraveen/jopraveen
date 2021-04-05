@@ -1,3 +1,5 @@
+![name](https://github.com/jopraveen/jopraveen/blob/main/some-gifs/main-page.png)
+
 ### Welcome guys 🙂
 
  ✨ _About me:_ ✨
