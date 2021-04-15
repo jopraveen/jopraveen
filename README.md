@@ -8,7 +8,7 @@
 
 - 👨‍🎓 College student studiying CSE
 
-- 🏃 Currently working on : i3 ricing (kali-punk)
+- 🏃 Currently : busy in exploiting binaries
 
 - 🥅 2021 Goals: Contribute more free stuffs
 
