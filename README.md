@@ -6,9 +6,9 @@
 
 - 👦 I'm a 17 y/o boy
 
-- 👨‍🎓 College student studiying CSE
+- 👨‍🎓 Studying CSE
 
-- 🏃 Currently : busy in exploiting binaries
+- 🏃 Currently : Busy in exploiting binaries
 
 - 🥅 2021 Goals: Contribute more free stuffs
 
