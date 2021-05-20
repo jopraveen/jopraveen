@@ -4,7 +4,7 @@
 
  ✨ _About me:_ ✨
 
-- 👦 I'm a 17 y/o boy
+- 👦 I'm a 18 y/o boy
 
 - 👨‍🎓 Studying CSE
 
@@ -15,6 +15,8 @@
 - 💬 Always open to DMs feel free to ask me doubts
 
 - ✏️ Quote from me : If you want to build a wall you need to lay a brick everyday🙂
+
+- 🤫 Powerful strings : d2g0N19
 
 ### visit my CYBERSEC blog :
 # https://jopraveen.wordpress.com
