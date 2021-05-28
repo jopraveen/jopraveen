@@ -18,6 +18,9 @@
 
 - 🤫 Powerful strings : d2g0N19
 
+### Subscribe to learn some IT Stuffs :
+# https://youtube.com/c/jopraveen
+
 ### visit my CYBERSEC blog :
 # https://jopraveen.wordpress.com
 
