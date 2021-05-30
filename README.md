@@ -4,7 +4,7 @@
 
  ✨ _About me:_ ✨
 
-- 👦 I'm a 18 y/o boy
+- 👦 18 y/o
 
 - 👨‍🎓 Studying CSE
 
