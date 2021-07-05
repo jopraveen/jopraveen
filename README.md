@@ -24,6 +24,7 @@
 ### visit my CYBERSEC blog :
 # https://jopraveen.wordpress.com
 
+<p><img src="https://github-readme-stats.vercel.app/api?username=jopraveen&amp;show_icons=true&theme=gotham" alt="GitHub Stats"></p>
 <!--
 - 📲 To contact me : 
 [<img align="left" alt="Jopraveen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
