@@ -16,7 +16,7 @@
 
 - ✏️ Quote from me : If you want to build a wall you need to lay a brick everyday🙂
 
-- 🤫 Powerful strings : d2g0N19
+
 
 ### Subscribe to learn some IT Stuffs :
 # https://youtube.com/c/jopraveen
