@@ -10,7 +10,7 @@
 
 - 🏃 Currently : Busy in exploiting binaries
 
-- 🥅 2021 Goals: Contribute more free stuffs
+- 🥅 2022 Goals: Contribute more free stuffs
 
 - 💬 Always open to DMs feel free to ask me doubts
 
