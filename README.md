@@ -189,7 +189,7 @@
 <br>
   
 <div align=center>
-  <script src="https://www.hackthebox.eu/badge/190694"></script>
+ <img src="http://www.hackthebox.eu/badge/image/190694" alt="Hack The Box">
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
     
