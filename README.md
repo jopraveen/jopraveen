@@ -193,7 +193,7 @@
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
     
-<!-- retro visitor counter -->  
+<!-- retro visitor counter circle -->  
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/jopraveen/count.svg" />  
 </p>
