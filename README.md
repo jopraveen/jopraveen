@@ -69,7 +69,7 @@
  </p>
  
   
-### 👉Graphic Designing
+### 👉 Graphic Designing
 <p align="left">
   &emsp;
   <a href="#">
