@@ -5,7 +5,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🎓 &nbsp; 20 y/o Studying Computer Science & Engineering
+- 🎓 &nbsp; 22 y/o ~Studying Computer Science & Engineering~
 - 🚩 &nbsp; Playing CTFs for **[TamilCTF team](https://ctftime.org/team/128998)**
 - 💣 &nbsp; Busy in exploiting binaries
 - 📝 &nbsp; REMEMBER no pain😖, no pwn👾
